@@ -27,24 +27,12 @@ Active Employees: The count of currently employed staff members.
 Average Age: The average age of employees in the organization.
 ```
 ## Visualizations:
-1. Attrition by Gender (Lollipop Chart):
-A lollipop chart visually represents attrition rates based on gender. It provides a clear comparison between male and female employee turnover, aiding in gender-specific attrition analysis.
-
-2. Department-wise Attrition (Pie Chart):
-A pie chart illustrates attrition distribution across different departments. Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
-
-3. Number of Employees by Age Group (Bar Graph):
-A bar graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. This visualization helps in understanding the age diversity within the organization.
-
-4. Job Satisfaction Rating (Square Chart):
-A square chart displays job satisfaction ratings of employees. Each square represents an employee's satisfaction level, providing a visual overview of job satisfaction across the organization.
-
-5. Education Field-wise Attrition (Vertical Bar Graph):
-A vertical bar graph compares attrition rates across various education fields. This visualization helps in identifying patterns related to specific educational backgrounds, aiding in targeted retention strategies.
-
-6. Education Field-wise Attrition (Donut Plot):
-A donut plot offers an alternative representation of attrition rates based on education fields. It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
-
+1. Gender Attrition: A lollipop chart visually compares attrition rates between male and female employees, highlighting potential gender disparities in turnover.
+2. Departmental Attrition: A pie chart illustrates the distribution of attrition across different departments, identifying those with the highest turnover rates.
+3. Age Group Distribution: A bar graph shows the number of employees in each age group, providing insights into the age demographics of the workforce.
+4. Job Satisfaction Overview: A square chart visually represents employee job satisfaction levels, offering a quick assessment of overall satisfaction within the organization.
+5. Education Field Attrition (Bar Graph): A vertical bar graph compares attrition rates across various education fields, helping identify potential links between educational background and turnover.
+6. Education Field Attrition (Donut Plot): A donut plot provides a detailed view of attrition rates by education field, showing both the overall attrition rate and the contribution of each field to the total.
 
 # Overview:-
 ## Dashboard 
