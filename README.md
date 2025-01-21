@@ -36,11 +36,9 @@ Average Age: The average age of employees in the organization.
 
 # Overview:-
 ## Dashboard 
-
-![Untitled design (1)](https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/ef4c85f2-0230-470b-8678-0f0c05643d49)
-
+![271978614-ef4c85f2-0230-470b-8678-0f0c05643d49](https://github.com/user-attachments/assets/8e1ed553-6ecf-4b85-ae57-9cd2658fcd03)
 ## Dashboard Video
-https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/6be74b0d-1152-48f9-a781-f497907281d2
+https://github.com/user-attachments/assets/f8e402ca-a962-4d26-ae62-73bdf0950a60
 # Contributing
 Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
 # Links :-
